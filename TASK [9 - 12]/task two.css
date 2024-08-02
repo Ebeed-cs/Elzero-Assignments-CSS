@@ -1,0 +1,20 @@
+.element {
+    padding: 10px;
+    width: 400px;
+    background-color: #eee;
+    margin: 50px auto;
+    font-size: 24px;
+    outline: #eee solid 10px;
+    }
+    
+.element-1 {
+    border-left: #e91e63 5px solid;        
+}
+
+.element-2 {
+    visibility: hidden;
+}
+
+.element-3 {
+    border-left: #009688 5px solid;
+}
